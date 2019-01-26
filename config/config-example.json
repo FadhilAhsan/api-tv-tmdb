@@ -1,0 +1,13 @@
+{
+    "api_tmdb": {
+        "api_key": "[YOUR_API_KEY]",
+        "api_url": "https://api.themoviedb.org/3",
+        "language_default": "en-US",
+        "timezone_default": "America%2FNew_York",
+        "image_base_url": "https://image.tmdb.org/t/p/",
+        "poster_size": "w185"
+    },
+    "app": {
+        "port": 3000
+    }
+}
